@@ -1,0 +1,21 @@
+  .   ____          _            __ _ _
+ /\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  ' |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+:: Spring Boot :: (v3.x.x)
+
+INFO  --- Starting OrmLearnApplication
+INFO  --- Inside main
+INFO  --- Start
+
+DEBUG --- countries=[
+Country{id='IN', name='India'},
+Country{id='US', name='United States'},
+Country{id='JP', name='Japan'},
+Country{id='GB', name='United Kingdom'}
+]
+
+INFO  --- Finished
